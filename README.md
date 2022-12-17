@@ -7,7 +7,7 @@ Download image-amogus-converter.py
 
 To uninstall just remove image-amogus-converter.py
 ## Usage
-Run ```python image-amogus-converter.py```
+Run ```python image-amogus-converter.py``` 
 Give the program an input image
 Give a name for the output
 
