@@ -6,6 +6,7 @@ Download python3
 
 Download image-amogus-converter.py
 
+#### uninstallation
 To uninstall just remove image-amogus-converter.py
 ## Usage
 Run ```python image-amogus-converter.py```
